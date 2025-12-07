@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Shivam Patra<br>- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥<br>- 🌱 I’m currently learning DSA+BACKEND DEV- 📫 How to reach me ->spworld30@gmail.com<br>-I am also addicted to Problem solving..<br>Currently I have 800+ problem solved across all plartforms</br>
+- 👋 Hi, I’m Shivam Patra<br>- 👀 I’m interested in BACKEND DEVLOPMENT🔥🔥<br>- 🌱 I’m currently learning DSA+BACKEND DEV- 📫 How to reach me ->spworld30@gmail.com<br>-I am also addicted to Problem solving..<br>Currently I have 1000+ problem solved across all plartforms</br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=13F77D&width=435&lines=It's+Shivam+from+Earth+..;KIIT+UNIVERSITY+STUDENT+%7C;LeetCoder+%7C+Backend+Devloper+%7C+)](https://git.io/typing-svg)<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   ![](https://komarev.com/ghpvc/?username=shivampatra2027&style=flat-square&color=blue)
