@@ -32,6 +32,7 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman" />
 
+###
 <img src="https://komarev.com/ghpvc/?username=shivampatra2027&style=flat-square&color=brightgreen" alt="Profile Views"/>
 
 ---
