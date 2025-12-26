@@ -1,6 +1,6 @@
 <div align="center">
-# 👋 Hi, I'm Shivam Patra
-### Backend Developer | Competitive Programmer | KIIT University Student
+# 👋 Hi, I'm Shivam Patra |
+ <b>Backend Developer</b> | <b>Competitive Programmer</b> | <b>KIIT University Student</b>
 Passionate about building scalable backend systems, solving complex algorithmic problems, and exploring modern technologies.
 <img src="https://user-images.githubusercontent.com/74038190/216656980-d1c919c4-6a3b-4c8b-9e5d-64d312c5c2c0.gif" width="800" alt="Developer GIF"/>
 </div>
