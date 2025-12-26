@@ -27,7 +27,7 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,neo4j,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" />
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman" />
