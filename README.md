@@ -14,26 +14,46 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 - 📫 How to reach me: **spworld30@gmail.com**
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivampatra49)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spworld30@gmail.com)
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,js,py" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+</p>
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,nestjs,nodejs" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+</p>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="55" height="55" />
+</p>
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman" />
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55" height="55" />
+</p>
 
-###
-<img src="https://komarev.com/ghpvc/?username=shivampatra2027&style=flat-square&color=brightgreen" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivampatra2027&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
 
 ---
 
