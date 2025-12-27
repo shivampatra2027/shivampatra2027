@@ -27,6 +27,14 @@ Passionate about building scalable backend systems, solving complex algorithmic 
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 </p>
 
+### Frontend & Frameworks
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="65" height="65" />
+</p>
+
+
 ### Backend & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=express,nestjs,nodejs" />
