@@ -5,7 +5,7 @@
 
 Passionate about building scalable backend systems, solving complex algorithmic problems, and exploring modern technologies.
 
-<img src="https://user-images.githubusercontent.com/74038190/216656980-d1c919c4-6a3b-4c8b-9e5d-64d312c5c2c0.gif" width="800" alt="Developer GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/215556980-d1c919c4-6a3b-4c8b-9e5d-64d312c5c2c0.gif" width="800" alt="Developer GIF"/>
 
 ## 🚀 About Me
 - 🔭 Currently mastering **Advanced DSA & System Design**
@@ -23,10 +23,10 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 
 ### Languages
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
 </p>
 
 ### Frontend & Frameworks
@@ -40,12 +40,12 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 ### Backend & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=express,nestjs,nodejs" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55" />
@@ -54,9 +54,9 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 
 ### DevOps & Tools
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55" height="55" />
 </p>
