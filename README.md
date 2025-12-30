@@ -17,6 +17,8 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivampatra49)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spworld30@gmail.com)
 
+### 2026 goals: "To Build Something Great"+"To Get A **JOB**"
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -29,9 +31,9 @@ Passionate about building scalable backend systems, solving complex algorithmic 
 
 ### Frontend & Frameworks
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="55" height="55" />
 </p>
 
 
