@@ -65,7 +65,8 @@ Passionate about building scalable backend systems, solving complex algorithmic 
   <img src="https://komarev.com/ghpvc/?username=shivampatra2027&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </p>
 
----
+**Stay Hungry. Stay Foolish.**  
+— Steve Jobs
 
 Built with ❤️ and endless lines of code
 
