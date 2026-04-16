@@ -51,7 +51,7 @@ Passionate about building scalable backend systems, solving complex algorithmic 
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="55" height="55" />
 </p>
-
+.
 ### DevOps & Tools
 <p align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
