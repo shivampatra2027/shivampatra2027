@@ -9,7 +9,9 @@
 <p align="center">
 Building scalable backend systems, solving complex problems, and exploring distributed architectures.
 </p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+</p>
 <img src="https://komarev.com/ghpvc/?username=shivampatra2027&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
@@ -173,3 +175,4 @@ Distributed URL shortening service with analytics and caching.
 ⭐ If you like my work, consider following me!
 
 </div>
+
