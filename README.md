@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+<a href="https://codolio.com/profile/spgoogle45">
+<img src="https://img.shields.io/badge/Codolio-445f9d?style=for-the-badge"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=shivampatra2027&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
@@ -179,26 +179,6 @@ Distributed Systems         ████░░░░░░ 40%
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman" />
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivampatra2027&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivampatra2027&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampatra2027&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
