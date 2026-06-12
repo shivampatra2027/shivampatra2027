@@ -239,6 +239,19 @@ Distributed Systems         ████░░░░░░ 40%
 # 🚀 Building Today For The Systems I'll Design Tomorrow
 
 ### Backend Engineering • Distributed Systems • System Design
+---
+
+# My SDE Master Sheet
+
+<p align="center">
+
+<a href="https://www.notion.so/1fff972ca50e807d896ffcf4308a1cc4?v=1fff972ca50e804f9182000c21dee52f&source=copy_link">
+<img src="https://img.shields.io/badge/📖-Open%20Preparation%20Sheet-blue?style=for-the-badge"/>
+</a>
+
+**Built to organize my journey towards becoming a Software Engineer.**
+
+---
 
 ⭐ Follow my journey as I grow into a world-class software engineer.
 <div align="">
