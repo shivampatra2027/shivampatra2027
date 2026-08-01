@@ -40,7 +40,7 @@
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,angular" />
 </p>
 
 ### DevOps & Tools
