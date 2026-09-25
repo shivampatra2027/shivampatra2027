@@ -155,7 +155,7 @@
 ---
 
 # 📖 SDE Preparation Sheet
-
+<img align="center" width="900" height="66" alt="image" src="https://github.com/user-attachments/assets/03d55d78-267f-481a-a4f4-55b7188acae0" />
 <p align="center">
 
 <a href="https://www.notion.so/1fff972ca50e807d896ffcf4308a1cc4?v=1fff972ca50e804f9182000c21dee52f&source=copy_link">
